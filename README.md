@@ -58,7 +58,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/tu-usuario/cronogramia.git](https://github.com/tu-usuario/cronogramia.git)
+git clone https://github.com/agustinaojeda/cronogramia.git
 cd cronogramia
 ```
 
